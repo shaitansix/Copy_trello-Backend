@@ -23,5 +23,3 @@ app.get('*', (req, res) => res.status(404).send('Route not found'))
 app.listen(PORT || 3000, () => {
     console.log(`Server running on port ${PORT || 3000}`)
 })
-
-export default app
