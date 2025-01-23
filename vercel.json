@@ -1,9 +1,11 @@
 { 
     "version": 2, 
-    "rewrites": [
+    "installCommand": "npm install", 
+    "devCommand": "npm run dev", 
+    "builds": [
         { 
-            "source": "/(.*)", 
-            "destination": "./index.js"
+            "src": "*.js", 
+            "use": "@vercel/node" 
         }
     ]
 }
