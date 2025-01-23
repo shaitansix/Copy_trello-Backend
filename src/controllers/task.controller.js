@@ -1,4 +1,3 @@
-import { completeTask } from '../../../client-2/src/services/tasks.js'
 import { pool } from '../config/db.config.js'
 
 export const taskController = {
