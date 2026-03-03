@@ -13,7 +13,7 @@ Aquí se implementa la API REST encargada de gestionar espacios de trabajo, tabl
 Video demostración: [Mi Trello - Video](https://www.youtube.com/watch?v=it5sgFNkJ3w)  
 Repositorio Backend: [Mi Trello - Backend](https://github.com/shaitansix/Copy_trello-Backend)  
 Repositorio Frontend: [Mi Trello - Frontend](https://github.com/shaitansix/Copy_trello-Frontend)  
-Demo en producción (si existe): [Mi Trello](https://copy-trello-frontend.vercel.app)
+Demo en producción: [Mi Trello](https://copy-trello-frontend.vercel.app)
 
 ---
 
