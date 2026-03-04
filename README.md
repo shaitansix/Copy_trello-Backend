@@ -61,6 +61,7 @@ El frontend gestiona el estado de la interfaz y renderiza dinámicamente los dat
 
 ---
 
+<!--
 ## Opciones de Despliegue
 
 ### Usando Docker
@@ -72,3 +73,4 @@ El frontend gestiona el estado de la interfaz y renderiza dinámicamente los dat
 
 ```bash
 ```
+-->
